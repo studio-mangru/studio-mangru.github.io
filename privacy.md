@@ -6,7 +6,7 @@ permalink: /privacy/
 
 ### Studio Mangru Privacy Policy
 
-**Effective date:** 2026-04-15
+**Effective date:** 2026-04-15  
 **Controller:** **Studio Mangru** ([Homepage](https://www.mangru.dev))  
 **Contact:** mangru.studio@gmail.com
 
@@ -95,7 +95,7 @@ Homepage: https://www.mangru.dev
 
 ### Studio Mangru 개인정보 처리방침
 
-**시행일:** 2026-04-15
+**시행일:** 2026-04-15  
 **개인정보처리자:** **Studio Mangru** ([Homepage](https://www.mangru.dev))  
 **문의:** mangru.studio@gmail.com
 
