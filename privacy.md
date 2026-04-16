@@ -16,7 +16,7 @@ This Privacy Policy explains what information the apps published by Studio Mangr
 
 This policy covers:
 
-- **Solitaire Tower** — Android (`com.mangaru.solitaire`)
+- **Solitaire Tower** — Android (`com.mangru.solitaire`)
 
 New apps will be listed here when published. Any app not listed above is not covered.
 
@@ -103,7 +103,7 @@ Homepage: https://www.mangru.dev
 
 #### 1. 적용 대상 앱
 
-- **솔리테어 타워** — Android (`com.mangaru.solitaire`)
+- **솔리테어 타워** — Android (`com.mangru.solitaire`)
 
 신규 앱 출시 시 이 목록에 추가됩니다. 목록에 없는 앱은 본 방침 적용 대상이 아닙니다.
 
